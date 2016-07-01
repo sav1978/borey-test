@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='ASCII'?>
+<IP_CAM>
+  <IP_HIKVISION>
+    <DS-2CD4232FWD-IZS>
+      <CAM set_config="1" id="1" ip="10.100.208.21" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U01"/>
+      <CAM set_config="1" id="2" ip="10.100.208.22" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U02"/>
+      <CAM set_config="1" id="3" ip="10.100.208.23" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U03"/>
+      <CAM set_config="1" id="4" ip="10.100.208.24" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U04"/>
+      <CAM set_config="1" id="5" ip="10.100.208.25" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U05"/>
+      <CAM set_config="1" id="6" ip="10.100.208.26" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U06"/>
+      <CAM set_config="1" id="7" ip="10.100.208.27" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U07"/>
+      <CAM set_config="1" id="8" ip="10.100.208.28" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U08"/>
+      <CAM set_config="1" id="9" ip="10.100.208.29" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U09"/>
+      <CAM set_config="1" id="10" ip="10.100.208.30" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U10"/>
+      <CAM set_config="1" id="11" ip="10.100.208.31" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U11"/>
+      <CAM set_config="1" id="12" ip="10.100.208.32" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U12"/>
+      <CAM set_config="1" id="13" ip="10.100.208.33" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U13"/>
+      <CAM set_config="1" id="14" ip="10.100.208.34" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U14"/>
+      <CAM set_config="1" id="15" ip="10.100.208.35" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U15"/>
+      <CAM set_config="1" id="16" ip="10.100.208.36" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U16" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="12345" gid_cam="WB8BKfPt" gid_ch="LKJGK1FS"/>
+      <CAM set_config="1" id="17" ip="10.100.208.37" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U17" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="12345" gid_cam="v83ajkrv" gid_ch="qrDChTog"/>
+      <CAM set_config="1" id="18" ip="10.100.208.38" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U18" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="12345" gid_cam="ZE5T6PCQ" gid_ch="IuhZvSXf"/>
+      <CAM set_config="1" id="19" ip="10.100.208.39" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U19"/>
+      <CAM set_config="1" id="20" ip="10.100.208.40" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U20"/>
+      <CAM set_config="1" id="21" ip="10.100.208.41" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U21"/>
+      <CAM set_config="1" id="22" ip="10.100.208.42" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U22"/>
+      <CAM set_config="1" id="23" ip="10.100.208.43" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U23"/>
+      <CAM set_config="1" id="24" ip="10.100.208.44" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U24"/>
+      <CAM set_config="1" id="25" ip="10.100.208.45" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U25"/>
+      <CAM set_config="1" id="26" ip="10.100.208.46" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U26"/>
+      <CAM set_config="1" id="27" ip="10.100.208.47" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U27"/>
+      <CAM set_config="1" id="28" ip="10.100.208.48" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U28"/>
+      <CAM set_config="1" id="29" ip="10.100.208.49" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U29"/>
+      <CAM set_config="1" id="30" ip="10.100.208.50" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U30"/>
+      <CAM set_config="1" id="31" ip="10.100.208.51" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U31"/>
+      <CAM set_config="1" id="32" ip="10.100.208.52" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U32"/>
+      <CAM set_config="1" id="33" ip="10.100.208.53" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U33"/>
+      <CAM set_config="1" id="34" ip="10.100.208.54" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U34"/>
+      <CAM set_config="1" id="35" ip="10.100.208.55" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U35"/>
+      <CAM set_config="1" id="36" ip="10.100.208.56" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U36"/>
+      <CAM set_config="1" id="37" ip="10.100.208.57" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U37" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="12345" gid_cam="tQgZvtxQ" gid_ch="R4kYptTh"/>
+      <CAM set_config="1" id="38" ip="10.100.208.58" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1U38"/>
+    </DS-2CD4232FWD-IZS>
+    <DS-2CD4032FWD-A>
+      <CAM set_config="1" id="39" ip="10.100.208.61" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B301"/>
+      <CAM set_config="1" id="40" ip="10.100.208.62" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B302"/>
+      <CAM set_config="1" id="41" ip="10.100.208.63" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B303"/>
+      <CAM set_config="1" id="42" ip="10.100.208.64" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B304"/>
+      <CAM set_config="1" id="43" ip="10.100.208.65" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B305"/>
+      <CAM set_config="1" id="44" ip="10.100.208.66" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B306"/>
+      <CAM set_config="1" id="45" ip="10.100.208.67" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B307"/>
+      <CAM set_config="1" id="46" ip="10.100.208.68" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B308"/>
+      <CAM set_config="1" id="47" ip="10.100.208.69" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B309"/>
+      <CAM set_config="1" id="48" ip="10.100.208.70" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B310"/>
+      <CAM set_config="1" id="49" ip="10.100.208.71" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B311"/>
+      <CAM set_config="1" id="50" ip="10.100.208.72" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B312"/>
+      <CAM set_config="1" id="51" ip="10.100.208.73" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B313"/>
+      <CAM set_config="1" id="52" ip="10.100.208.74" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B314"/>
+      <CAM set_config="1" id="53" ip="10.100.208.75" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B315"/>
+      <CAM set_config="1" id="54" ip="10.100.208.76" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B316"/>
+      <CAM set_config="1" id="55" ip="10.100.208.77" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B317"/>
+      <CAM set_config="1" id="56" ip="10.100.208.78" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B318"/>
+      <CAM set_config="1" id="57" ip="10.100.208.79" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B319"/>
+      <CAM set_config="1" id="58" ip="10.100.208.80" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B320"/>
+      <CAM set_config="1" id="59" ip="10.100.208.81" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B321"/>
+      <CAM set_config="1" id="60" ip="10.100.208.82" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B322"/>
+      <CAM set_config="1" id="61" ip="10.100.208.83" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B323"/>
+      <CAM set_config="1" id="62" ip="10.100.208.84" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B324"/>
+      <CAM set_config="1" id="63" ip="10.100.208.85" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B325"/>
+      <CAM set_config="1" id="64" ip="10.100.208.86" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B326"/>
+      <CAM set_config="1" id="65" ip="10.100.208.87" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B327"/>
+      <CAM set_config="1" id="66" ip="10.100.208.88" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B328"/>
+      <CAM set_config="1" id="67" ip="10.100.208.89" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B329" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="QDc74GdF" gid_ch="L0FEDBBK"/>
+      <CAM set_config="1" id="68" ip="10.100.208.90" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B330"/>
+      <CAM set_config="1" id="69" ip="10.100.208.91" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B331"/>
+      <CAM set_config="1" id="70" ip="10.100.208.92" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B332"/>
+      <CAM set_config="1" id="71" ip="10.100.208.93" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B333" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="X1titv8l" gid_ch="vt7FTa6y"/>
+      <CAM set_config="1" id="72" ip="10.100.208.94" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B334"/>
+      <CAM set_config="1" id="73" ip="10.100.208.95" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B335" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="wzgdCMBt" gid_ch="COFLCgco"/>
+      <CAM set_config="1" id="74" ip="10.100.208.96" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B336"/>
+      <CAM set_config="1" id="75" ip="10.100.208.97" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B337"/>
+      <CAM set_config="1" id="76" ip="10.100.208.98" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B338"/>
+      <CAM set_config="1" id="77" ip="10.100.208.99" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B339"/>
+      <CAM set_config="1" id="78" ip="10.100.208.100" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B340"/>
+      <CAM set_config="1" id="79" ip="10.100.208.101" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B341"/>
+      <CAM set_config="1" id="80" ip="10.100.208.102" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B342"/>
+      <CAM set_config="1" id="81" ip="10.100.208.103" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B343"/>
+      <CAM set_config="1" id="82" ip="10.100.208.104" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B344"/>
+      <CAM set_config="1" id="83" ip="10.100.208.105" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B345"/>
+      <CAM set_config="1" id="84" ip="10.100.208.106" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B346"/>
+      <CAM set_config="1" id="85" ip="10.100.208.107" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B347" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="OLhhxcZd" gid_ch="bsP5XRNa"/>
+      <CAM set_config="1" id="86" ip="10.100.208.108" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B348" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="Z2HZVli2" gid_ch="FLLEeL1l"/>
+      <CAM set_config="1" id="87" ip="10.100.208.109" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B349" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="onImMaKD" gid_ch="tCrTjIHt"/>
+      <CAM set_config="1" id="88" ip="10.100.208.110" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B350"/>
+      <CAM set_config="1" id="89" ip="10.100.208.111" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B351" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="BfMOItEU" gid_ch="NkyonJLD"/>
+      <CAM set_config="1" id="90" ip="10.100.208.112" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B352"/>
+      <CAM set_config="1" id="91" ip="10.100.208.113" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B353"/>
+      <CAM set_config="1" id="92" ip="10.100.208.114" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B354"/>
+      <CAM set_config="1" id="93" ip="10.100.208.115" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B355"/>
+      <CAM set_config="1" id="94" ip="10.100.208.116" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B356" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="qjXHFwEE" gid_ch="mncHmGJV"/>
+      <CAM set_config="1" id="95" ip="10.100.208.117" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B357"/>
+      <CAM set_config="1" id="96" ip="10.100.208.118" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B358" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="thW1denb" gid_ch="XhdQg9tl"/>
+      <CAM set_config="1" id="97" ip="10.100.208.119" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B359" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="xVYaiL5N" gid_ch="BfvlqoPV"/>
+      <CAM set_config="1" id="98" ip="10.100.208.120" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B360" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="XjOv0SGQ" gid_ch="pMHlrwFJ"/>
+      <CAM set_config="1" id="99" ip="10.100.208.121" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B361" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="tLf0VM0o" gid_ch="kcmpIPBJ"/>
+      <CAM set_config="1" id="100" ip="10.100.208.122" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B362"/>
+      <CAM set_config="1" id="101" ip="10.100.208.123" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B363" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="wkHEvy3m" gid_ch="bLzp8ewo"/>
+      <CAM set_config="1" id="102" ip="10.100.208.124" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B364" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="bVMaL9qm" gid_ch="gKSCY1Fs"/>
+      <CAM set_config="1" id="103" ip="10.100.208.125" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B365" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="JKovvbO1" gid_ch="zpW2exug"/>
+      <CAM set_config="1" id="104" ip="10.100.208.126" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B366"/>
+      <CAM set_config="1" id="105" ip="10.100.208.127" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B367" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="RK4dUdQp" gid_ch="D706Jhhh"/>
+      <CAM set_config="1" id="106" ip="10.100.208.128" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B368" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="Y2ncX0uy" gid_ch="UNFe80gB"/>
+      <CAM set_config="1" id="107" ip="10.100.208.129" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B369" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="eQ3baT09" gid_ch="KcOUXknK"/>
+      <CAM set_config="1" id="108" ip="10.100.208.130" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B370" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="1" ip_trassir_server="10.100.1.51" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="s39enKO4" gid_ch="mMq0Fueg"/>
+      <CAM set_config="1" id="109" ip="10.100.208.131" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B371"/>
+      <CAM set_config="1" id="110" ip="10.100.208.132" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B372"/>
+      <CAM set_config="1" id="111" ip="10.100.208.133" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B373" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="0" ip_trassir_server="10.100.1.50" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="12345" gid_cam="ycKE1F2z" gid_ch="MqsCfYb7"/>
+      <CAM set_config="1" id="112" ip="10.100.208.134" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B374" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="0" ip_trassir_server="10.100.1.50" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="12345" gid_cam="" gid_ch=""/>
+      <CAM set_config="1" id="113" ip="10.100.208.135" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B301"/>
+      <CAM set_config="1" id="114" ip="10.100.208.136" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B302"/>
+      <CAM set_config="1" id="115" ip="10.100.208.137" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B303" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="0" ip_trassir_server="10.100.1.50" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="12345" gid_cam="lUkhmlbA" gid_ch="IvGuU3bl"/>
+      <CAM set_config="1" id="116" ip="10.100.208.138" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B304" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="0" ip_trassir_server="10.100.1.50" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="12345" gid_cam="" gid_ch=""/>
+      <CAM set_config="1" id="117" ip="10.100.208.139" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B305" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="0" ip_trassir_server="10.100.1.50" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="12345" gid_cam="" gid_ch=""/>
+      <CAM set_config="1" id="118" ip="10.100.208.140" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B306"/>
+      <CAM set_config="1" id="119" ip="10.100.208.141" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B307"/>
+      <CAM set_config="1" id="120" ip="10.100.208.142" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B308"/>
+      <CAM set_config="1" id="121" ip="10.100.208.143" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B309"/>
+      <CAM set_config="1" id="122" ip="10.100.208.144" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B310"/>
+      <CAM set_config="1" id="123" ip="10.100.208.145" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B311"/>
+      <CAM set_config="1" id="124" ip="10.100.208.146" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B312" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="0" ip_trassir_server="10.100.1.52" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="12345" gid_cam="yZ8mEO2c" gid_ch="yKBEZbLD"/>
+      <CAM set_config="1" id="125" ip="10.100.208.147" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B313" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="0" ip_trassir_server="10.100.1.52" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="12345" gid_cam="" gid_ch=""/>
+      <CAM set_config="1" id="126" ip="10.100.208.148" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B314"/>
+      <CAM set_config="1" id="127" ip="10.100.208.149" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B315" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="0" ip_trassir_server="10.100.1.50" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="12345" gid_cam="" gid_ch=""/>
+      <CAM set_config="1" id="128" ip="10.100.208.150" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B316"/>
+      <CAM set_config="1" id="129" ip="10.100.208.151" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B317"/>
+      <CAM set_config="1" id="130" ip="10.100.208.152" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B318"/>
+      <CAM set_config="1" id="131" ip="10.100.208.153" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B319"/>
+      <CAM set_config="1" id="132" ip="10.100.208.154" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B320"/>
+      <CAM set_config="1" id="133" ip="10.100.208.155" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B321"/>
+      <CAM set_config="1" id="134" ip="10.100.208.156" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B322" gateway="10.100.208.250" netmask="255.255.255.0" ntp_server="10.100.1.5" dns_server="10.100.1.2" serial_cam="" set_trassir_server="0" ip_trassir_server="10.100.1.50" port_trassir_server="8080" login_trassir_server="Admin" pass_trassir_server="" gid_cam="K7q5Nr0u" gid_ch="ov4jRBFY"/>
+      <CAM set_config="1" id="135" ip="10.100.208.157" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B323"/>
+      <CAM set_config="1" id="136" ip="10.100.208.158" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B324"/>
+      <CAM set_config="1" id="137" ip="10.100.208.159" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B325"/>
+      <CAM set_config="1" id="138" ip="10.100.208.160" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B326"/>
+      <CAM set_config="1" id="139" ip="10.100.208.161" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B327"/>
+      <CAM set_config="1" id="140" ip="10.100.208.162" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B328"/>
+      <CAM set_config="1" id="141" ip="10.100.208.163" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B329"/>
+      <CAM set_config="1" id="142" ip="10.100.208.164" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B330"/>
+      <CAM set_config="1" id="143" ip="10.100.208.165" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B331"/>
+      <CAM set_config="1" id="144" ip="10.100.208.166" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B332"/>
+      <CAM set_config="1" id="145" ip="10.100.208.167" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B333"/>
+      <CAM set_config="1" id="146" ip="10.100.208.168" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B334"/>
+      <CAM set_config="1" id="147" ip="10.100.208.169" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B335"/>
+      <CAM set_config="1" id="148" ip="10.100.208.170" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B336"/>
+      <CAM set_config="1" id="149" ip="10.100.208.171" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B337"/>
+      <CAM set_config="1" id="150" ip="10.100.208.172" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B338"/>
+      <CAM set_config="1" id="151" ip="10.100.208.173" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B339"/>
+      <CAM set_config="1" id="152" ip="10.100.208.174" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B340"/>
+      <CAM set_config="1" id="153" ip="10.100.208.175" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B341"/>
+      <CAM set_config="1" id="154" ip="10.100.208.176" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B342"/>
+      <CAM set_config="1" id="155" ip="10.100.208.177" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B343"/>
+      <CAM set_config="1" id="156" ip="10.100.208.178" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3B301"/>
+      <CAM set_config="1" id="157" ip="10.100.208.179" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3B302"/>
+      <CAM set_config="1" id="158" ip="10.100.208.180" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3B303"/>
+    </DS-2CD4032FWD-A>
+    <DS-2CD4012FWD-A>
+      <CAM set_config="1" id="159" ip="10.100.208.181" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B101"/>
+      <CAM set_config="1" id="160" ip="10.100.208.182" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B102"/>
+      <CAM set_config="1" id="161" ip="10.100.208.183" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B103"/>
+      <CAM set_config="1" id="162" ip="10.100.208.184" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B104"/>
+      <CAM set_config="1" id="163" ip="10.100.208.185" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B105"/>
+      <CAM set_config="1" id="164" ip="10.100.208.186" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1B106"/>
+      <CAM set_config="1" id="165" ip="10.100.208.187" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B101"/>
+      <CAM set_config="1" id="166" ip="10.100.208.188" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B102"/>
+      <CAM set_config="1" id="167" ip="10.100.208.189" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B103"/>
+      <CAM set_config="1" id="168" ip="10.100.208.190" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B104"/>
+      <CAM set_config="1" id="169" ip="10.100.208.191" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B105"/>
+      <CAM set_config="1" id="170" ip="10.100.208.192" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B106"/>
+      <CAM set_config="1" id="171" ip="10.100.208.193" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B107"/>
+      <CAM set_config="1" id="172" ip="10.100.208.194" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B108"/>
+      <CAM set_config="1" id="173" ip="10.100.208.195" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B109"/>
+      <CAM set_config="1" id="174" ip="10.100.208.196" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B110"/>
+      <CAM set_config="1" id="175" ip="10.100.208.197" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B111"/>
+      <CAM set_config="1" id="176" ip="10.100.208.198" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B112"/>
+      <CAM set_config="1" id="177" ip="10.100.208.199" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B113"/>
+      <CAM set_config="1" id="178" ip="10.100.208.200" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2B114"/>
+      <CAM set_config="1" id="179" ip="10.100.208.201" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3B101"/>
+      <CAM set_config="1" id="180" ip="10.100.208.202" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3B102"/>
+      <CAM set_config="1" id="181" ip="10.100.208.203" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3B103"/>
+    </DS-2CD4012FWD-A>
+    <DS-2CD2512F-IS>
+      <CAM set_config="1" id="182" ip="10.100.208.204" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K01"/>
+      <CAM set_config="1" id="183" ip="10.100.208.205" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K02"/>
+      <CAM set_config="1" id="184" ip="10.100.208.206" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K03"/>
+      <CAM set_config="1" id="185" ip="10.100.208.207" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K04"/>
+      <CAM set_config="1" id="186" ip="10.100.208.208" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K05"/>
+      <CAM set_config="1" id="187" ip="10.100.208.209" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K06"/>
+      <CAM set_config="1" id="188" ip="10.100.208.210" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K07"/>
+      <CAM set_config="1" id="189" ip="10.100.208.211" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K08"/>
+      <CAM set_config="1" id="190" ip="10.100.208.212" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K09"/>
+      <CAM set_config="1" id="191" ip="10.100.208.213" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K10"/>
+      <CAM set_config="1" id="192" ip="10.100.208.214" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K11"/>
+      <CAM set_config="1" id="193" ip="10.100.208.215" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K12"/>
+      <CAM set_config="1" id="194" ip="10.100.208.216" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K13"/>
+      <CAM set_config="1" id="195" ip="10.100.208.217" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K14"/>
+      <CAM set_config="1" id="196" ip="10.100.208.218" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K15"/>
+      <CAM set_config="1" id="197" ip="10.100.208.219" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K16"/>
+      <CAM set_config="1" id="198" ip="10.100.208.220" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K17"/>
+      <CAM set_config="1" id="199" ip="10.100.208.221" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K18"/>
+      <CAM set_config="1" id="200" ip="10.100.208.222" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K19"/>
+      <CAM set_config="1" id="201" ip="10.100.208.223" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K20"/>
+      <CAM set_config="1" id="202" ip="10.100.208.224" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K01"/>
+      <CAM set_config="1" id="203" ip="10.100.208.225" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K02"/>
+      <CAM set_config="1" id="204" ip="10.100.208.226" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K03"/>
+      <CAM set_config="1" id="205" ip="10.100.208.227" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K04"/>
+      <CAM set_config="1" id="206" ip="10.100.208.228" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K05"/>
+      <CAM set_config="1" id="207" ip="10.100.208.229" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K06"/>
+      <CAM set_config="1" id="208" ip="10.100.208.230" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K07"/>
+      <CAM set_config="1" id="209" ip="10.100.208.231" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K08"/>
+      <CAM set_config="1" id="210" ip="10.100.208.232" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K09"/>
+      <CAM set_config="1" id="211" ip="10.100.208.233" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K10"/>
+      <CAM set_config="1" id="212" ip="10.100.208.234" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3K01"/>
+      <CAM set_config="1" id="213" ip="10.100.208.235" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3K02"/>
+      <CAM set_config="1" id="214" ip="10.100.208.236" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3K03"/>
+      <CAM set_config="1" id="215" ip="10.100.208.237" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3K04"/>
+      <CAM set_config="1" id="216" ip="10.100.208.238" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3K05"/>
+      <CAM set_config="1" id="217" ip="10.100.208.239" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3K06"/>
+      <CAM set_config="1" id="218" ip="10.100.208.240" port_cam="8000" login_cam="admin" pass_cam="12345" name="K3K07"/>
+    </DS-2CD2512F-IS>
+    <DS-2DF5286-A>
+      <CAM set_config="1" id="219" ip="10.100.208.59" port_cam="8000" login_cam="admin" pass_cam="12345" name="K4UP01"/>
+      <CAM set_config="1" id="220" ip="10.100.208.60" port_cam="8000" login_cam="admin" pass_cam="12345" name="K4UP02"/>
+    </DS-2DF5286-A>
+    <DS-2CD2732F-IS>
+      <CAM set_config="1" id="221" ip="10.100.208.241" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K301"/>
+      <CAM set_config="1" id="222" ip="10.100.208.242" port_cam="8000" login_cam="admin" pass_cam="12345" name="K1K302"/>
+      <CAM set_config="1" id="223" ip="10.100.208.243" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K301"/>
+      <CAM set_config="1" id="224" ip="10.100.208.244" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K302"/>
+      <CAM set_config="1" id="225" ip="10.100.208.245" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K303"/>
+      <CAM set_config="1" id="226" ip="10.100.208.246" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K304"/>
+      <CAM set_config="1" id="227" ip="10.100.208.247" port_cam="8000" login_cam="admin" pass_cam="12345" name="K2K305"/>
+    </DS-2CD2732F-IS>
+  </IP_HIKVISION>
+  <IP_MOBOTIX>
+    <MobotixQ25>
+      <CAM set_config="1" id="228" ip="10.100.17.11" port_cam="80" login_cam="admin" pass_cam="12345" name="K1P01"/>
+      <CAM set_config="1" id="229" ip="10.100.17.12" port_cam="80" login_cam="admin" pass_cam="12345" name="K1P02"/>
+      <CAM set_config="1" id="230" ip="10.100.17.13" port_cam="80" login_cam="admin" pass_cam="12345" name="K1P03"/>
+      <CAM set_config="1" id="231" ip="10.100.17.14" port_cam="80" login_cam="admin" pass_cam="12345" name="K1P04"/>
+      <CAM set_config="1" id="232" ip="10.100.17.15" port_cam="80" login_cam="admin" pass_cam="12345" name="K1P05"/>
+      <CAM set_config="1" id="233" ip="10.100.17.16" port_cam="80" login_cam="admin" pass_cam="12345" name="K1P06"/>
+      <CAM set_config="1" id="234" ip="10.100.17.17" port_cam="80" login_cam="admin" pass_cam="12345" name="K1P07"/>
+      <CAM set_config="1" id="235" ip="10.100.17.18" port_cam="80" login_cam="admin" pass_cam="12345" name="K1P08"/>
+      <CAM set_config="1" id="236" ip="10.100.17.19" port_cam="80" login_cam="admin" pass_cam="12345" name="K2P01"/>
+      <CAM set_config="1" id="237" ip="10.100.17.20" port_cam="80" login_cam="admin" pass_cam="12345" name="K2P02"/>
+      <CAM set_config="1" id="238" ip="10.100.17.21" port_cam="80" login_cam="admin" pass_cam="12345" name="K2P03"/>
+    </MobotixQ25>
+  </IP_MOBOTIX>
+</IP_CAM>
