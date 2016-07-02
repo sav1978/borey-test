@@ -3,7 +3,11 @@ from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import NoAlertPresentException
+from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+
 from lxml import etree as et
 import unittest, time
 
@@ -19,7 +23,6 @@ class LoggerOff(unittest.TestCase):
         profile.set_preference('browser.helperApps.neverAsk.saveToDisk', 'application/octet-stream')
 
         self.driver = webdriver.Firefox(profile)
-        self.driver.implicitly_wait(50)
         print "Firefox started!"
         self.ips = []
         self.tree = et.parse("boreys.xml")
@@ -33,6 +36,12 @@ class LoggerOff(unittest.TestCase):
     def turn_off_logs(self, ip):
         driver = self.driver
         driver.get("http://" + ip + "/logon.html?next=%2Flog-ui%2F")
+        try:
+            WebDriverWait(driver, 30).until(
+                EC.presence_of_element_located((By.ID, "username"))
+            )
+        except TimeoutException:
+            return
         driver.find_element_by_id("username").clear()
         driver.find_element_by_id("username").send_keys("root")
         driver.find_element_by_id("password").clear()
@@ -64,35 +73,54 @@ class LoggerOff(unittest.TestCase):
     def make_backup(self, ip):
         borey = self.tree.xpath("/Boreys/Borey[@ipAddress='" + ip + "']")
         for node in borey:
-            if node.attrib["backup"] != "1":
+            if (not ("backup" in node.attrib)) or (node.attrib["backup"] != "1"):
                 driver = self.driver
                 driver.get("http://" + ip + "/logon.html?next=%2Fadmin%2F")
+                try:
+                    WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.ID, "username"))
+                    )
+                except TimeoutException:
+                    print '[ERROR] No response from Borey with ip {}'.format(ip)
+                    return False
                 driver.find_element_by_id("username").clear()
                 driver.find_element_by_id("username").send_keys("root")
                 driver.find_element_by_id("password").clear()
                 driver.find_element_by_id("password").send_keys("root")
                 driver.find_element_by_id("submit").click()
-                driver.implicitly_wait(15)
+                try:
+                    WebDriverWait(driver, 30).until(
+                        EC.presence_of_element_located((By.CSS_SELECTOR, "body > footer > span.admin-backup"))
+                    )
+                except TimeoutException:
+                    print '[ERROR] Can not login to Borey with ip {}'.format(ip)
+                    return False
                 driver.find_element_by_css_selector("body > footer > span.admin-backup").click()
                 driver.find_element_by_xpath("/html/body/footer/ul/li[1]").click()
                 driver.find_element_by_xpath("//*[@id='jquery-dialog-window']/div[3]/button[1]").click()
                 try:
-                    WebDriverWait(driver, 90).until(lambda element: element.find_element_by_xpath("//*[@id='jquery-dialog-window']/div[3]/button[contains(text(),'Продолжить работу')]"))
-                except:
+                    WebDriverWait(driver, 180).until(lambda element: element.find_element_by_xpath("//*[@id='jquery-dialog-window']/div[3]/button[contains(text(),'Продолжить работу')]"))
+                except TimeoutException:
                     return
                 driver.find_element_by_xpath("//*[@id='jquery-dialog-window']/div[3]/button[contains(text(),'Продолжить работу')]").click()
                 driver.find_element_by_css_selector("body > footer > span.admin-backup").click()
                 driver.find_element_by_xpath("/html/body/footer/ul/li[4]").click()
                 time.sleep(5)
                 node.attrib["backup"] = "1"
+                return True
+            else:
+                print '[INFO] No need to backup Borey with ip {}. Backup already created'.format(ip)
+                return False
 
 
     def test_logger_off(self):
         for ip in self.ips:
-            self.make_backup(ip)
-            f = open("boreys.xml", "w")
-            f.write(et.tostring(self.tree, pretty_print=True, xml_declaration=True, encoding='utf-8'))
-            f.close()
+            print 'Making backup of Borey with ip {}'.format(ip)
+            if self.make_backup(ip):
+                print '[OK] Backup of Borey with ip {} MAKED and SAVED!'.format(ip)
+                f = open("boreys.xml", "w")
+                f.write(et.tostring(self.tree, pretty_print=True, xml_declaration=True, encoding='utf-8'))
+                f.close()
 
         #  for ip in self.ips:
         #      self.turn_off_logs(ip)
