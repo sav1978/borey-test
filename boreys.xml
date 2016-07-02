@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Boreys>
-  <Borey configured="0" ipAddress="10.0.30.37"/>
   <Borey configured="0" ipAddress="172.16.237.101"/>
   <Borey configured="0" ipAddress="172.16.237.102"/>
   <Borey configured="0" ipAddress="172.16.237.103"/>
@@ -161,6 +160,7 @@
   <Borey configured="0" ipAddress="172.16.237.55"/>
   <Borey configured="0" ipAddress="172.16.237.56"/>
   <Borey configured="0" ipAddress="172.16.237.57"/>
+  <Borey configured="0" ipAddress="172.16.237.58"/>
   <Borey configured="0" ipAddress="172.16.237.59"/>
   <Borey configured="0" ipAddress="172.16.237.60"/>
   <Borey configured="0" ipAddress="172.16.237.61"/>
@@ -203,6 +203,9 @@
   <Borey configured="0" ipAddress="172.16.237.98"/>
   <Borey configured="0" ipAddress="172.16.237.99"/>
   <Borey configured="0" ipAddress="172.16.238.10"/>
+  <Borey configured="0" ipAddress="172.16.238.101"/>
+  <Borey configured="0" ipAddress="172.16.238.102"/>
+  <Borey configured="0" ipAddress="172.16.238.103"/>
   <Borey configured="0" ipAddress="172.16.238.11"/>
   <Borey configured="0" ipAddress="172.16.238.12"/>
   <Borey configured="0" ipAddress="172.16.238.13"/>
@@ -249,6 +252,7 @@
   <Borey configured="0" ipAddress="172.16.238.50"/>
   <Borey configured="0" ipAddress="172.16.238.51"/>
   <Borey configured="0" ipAddress="172.16.238.52"/>
+  <Borey configured="0" ipAddress="172.16.238.53"/>
   <Borey configured="0" ipAddress="172.16.238.55"/>
   <Borey configured="0" ipAddress="172.16.238.56"/>
   <Borey configured="0" ipAddress="172.16.238.57"/>
@@ -262,4 +266,35 @@
   <Borey configured="0" ipAddress="172.16.238.65"/>
   <Borey configured="0" ipAddress="172.16.238.66"/>
   <Borey configured="0" ipAddress="172.16.238.67"/>
+  <Borey configured="0" ipAddress="172.16.238.68"/>
+  <Borey configured="0" ipAddress="172.16.238.69"/>
+  <Borey configured="0" ipAddress="172.16.238.70"/>
+  <Borey configured="0" ipAddress="172.16.238.71"/>
+  <Borey configured="0" ipAddress="172.16.238.72"/>
+  <Borey configured="0" ipAddress="172.16.238.73"/>
+  <Borey configured="0" ipAddress="172.16.238.74"/>
+  <Borey configured="0" ipAddress="172.16.238.75"/>
+  <Borey configured="0" ipAddress="172.16.238.76"/>
+  <Borey configured="0" ipAddress="172.16.238.77"/>
+  <Borey configured="0" ipAddress="172.16.238.78"/>
+  <Borey configured="0" ipAddress="172.16.238.79"/>
+  <Borey configured="0" ipAddress="172.16.238.80"/>
+  <Borey configured="0" ipAddress="172.16.238.81"/>
+  <Borey configured="0" ipAddress="172.16.238.82"/>
+  <Borey configured="0" ipAddress="172.16.238.83"/>
+  <Borey configured="0" ipAddress="172.16.238.84"/>
+  <Borey configured="0" ipAddress="172.16.238.85"/>
+  <Borey configured="0" ipAddress="172.16.238.86"/>
+  <Borey configured="0" ipAddress="172.16.238.87"/>
+  <Borey configured="0" ipAddress="172.16.238.88"/>
+  <Borey configured="0" ipAddress="172.16.238.89"/>
+  <Borey configured="0" ipAddress="172.16.238.90"/>
+  <Borey configured="0" ipAddress="172.16.238.91"/>
+  <Borey configured="0" ipAddress="172.16.238.92"/>
+  <Borey configured="0" ipAddress="172.16.238.94"/>
+  <Borey configured="0" ipAddress="172.16.238.95"/>
+  <Borey configured="0" ipAddress="172.16.238.96"/>
+  <Borey configured="0" ipAddress="172.16.238.97"/>
+  <Borey configured="0" ipAddress="172.16.238.98"/>
+  <Borey configured="0" ipAddress="172.16.238.99"/>
 </Boreys>

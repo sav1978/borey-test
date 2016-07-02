@@ -62,29 +62,29 @@ class LoggerOff(unittest.TestCase):
         self.assertEqual(u"Сохранено", self.close_alert_and_get_its_text())
 
     def make_backup(self, ip):
-        driver = self.driver
-        driver.get("http://" + ip + "/logon.html?next=%2Fadmin%2F")
-        driver.find_element_by_id("username").clear()
-        driver.find_element_by_id("username").send_keys("root")
-        driver.find_element_by_id("password").clear()
-        driver.find_element_by_id("password").send_keys("root")
-        driver.find_element_by_id("submit").click()
-        driver.implicitly_wait(15)
-        driver.find_element_by_css_selector("body > footer > span.admin-backup").click()
-        driver.find_element_by_xpath("/html/body/footer/ul/li[1]").click()
-        driver.find_element_by_xpath("//*[@id='jquery-dialog-window']/div[3]/button[1]").click()
-        try:
-            WebDriverWait(driver, 90).until(lambda element: element.find_element_by_xpath("//*[@id='jquery-dialog-window']/div[3]/button[contains(text(),'Продолжить работу')]"))
-        except:
-            return
-        driver.find_element_by_xpath("//*[@id='jquery-dialog-window']/div[3]/button[contains(text(),'Продолжить работу')]").click()
-        driver.find_element_by_css_selector("body > footer > span.admin-backup").click()
-        driver.find_element_by_xpath("/html/body/footer/ul/li[4]").click()
-        time.sleep(5)
         borey = self.tree.xpath("/Boreys/Borey[@ipAddress='" + ip + "']")
         for node in borey:
-            node.attrib["configured"] = "1"
-            node.attrib["backup"] = "1"
+            if node.attrib["backup"] != "1":
+                driver = self.driver
+                driver.get("http://" + ip + "/logon.html?next=%2Fadmin%2F")
+                driver.find_element_by_id("username").clear()
+                driver.find_element_by_id("username").send_keys("root")
+                driver.find_element_by_id("password").clear()
+                driver.find_element_by_id("password").send_keys("root")
+                driver.find_element_by_id("submit").click()
+                driver.implicitly_wait(15)
+                driver.find_element_by_css_selector("body > footer > span.admin-backup").click()
+                driver.find_element_by_xpath("/html/body/footer/ul/li[1]").click()
+                driver.find_element_by_xpath("//*[@id='jquery-dialog-window']/div[3]/button[1]").click()
+                try:
+                    WebDriverWait(driver, 90).until(lambda element: element.find_element_by_xpath("//*[@id='jquery-dialog-window']/div[3]/button[contains(text(),'Продолжить работу')]"))
+                except:
+                    return
+                driver.find_element_by_xpath("//*[@id='jquery-dialog-window']/div[3]/button[contains(text(),'Продолжить работу')]").click()
+                driver.find_element_by_css_selector("body > footer > span.admin-backup").click()
+                driver.find_element_by_xpath("/html/body/footer/ul/li[4]").click()
+                time.sleep(5)
+                node.attrib["backup"] = "1"
 
 
     def test_logger_off(self):
