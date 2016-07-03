@@ -1,300 +1,300 @@
 <?xml version='1.0' encoding='utf-8'?>
 <Boreys>
-  <Borey configured="0" ipAddress="172.16.237.101"/>
-  <Borey configured="0" ipAddress="172.16.237.102"/>
-  <Borey configured="0" ipAddress="172.16.237.103"/>
-  <Borey configured="0" ipAddress="172.16.237.104"/>
-  <Borey configured="0" ipAddress="172.16.237.105"/>
-  <Borey configured="0" ipAddress="172.16.237.106"/>
-  <Borey configured="0" ipAddress="172.16.237.110"/>
-  <Borey configured="0" ipAddress="172.16.237.111"/>
-  <Borey configured="0" ipAddress="172.16.237.112"/>
-  <Borey configured="0" ipAddress="172.16.237.113"/>
-  <Borey configured="0" ipAddress="172.16.237.114"/>
-  <Borey configured="0" ipAddress="172.16.237.115"/>
-  <Borey configured="0" ipAddress="172.16.237.116"/>
-  <Borey configured="0" ipAddress="172.16.237.117"/>
-  <Borey configured="0" ipAddress="172.16.237.118"/>
-  <Borey configured="0" ipAddress="172.16.237.119"/>
-  <Borey configured="0" ipAddress="172.16.237.120"/>
-  <Borey configured="0" ipAddress="172.16.237.121"/>
-  <Borey configured="0" ipAddress="172.16.237.122"/>
-  <Borey configured="0" ipAddress="172.16.237.123"/>
-  <Borey configured="0" ipAddress="172.16.237.124"/>
-  <Borey configured="0" ipAddress="172.16.237.125"/>
-  <Borey configured="0" ipAddress="172.16.237.126"/>
-  <Borey configured="0" ipAddress="172.16.237.127"/>
-  <Borey configured="0" ipAddress="172.16.237.128"/>
-  <Borey configured="0" ipAddress="172.16.237.129"/>
-  <Borey configured="0" ipAddress="172.16.237.130"/>
-  <Borey configured="0" ipAddress="172.16.237.131"/>
-  <Borey configured="0" ipAddress="172.16.237.132"/>
-  <Borey configured="0" ipAddress="172.16.237.133"/>
-  <Borey configured="0" ipAddress="172.16.237.135"/>
-  <Borey configured="0" ipAddress="172.16.237.136"/>
-  <Borey configured="0" ipAddress="172.16.237.137"/>
-  <Borey configured="0" ipAddress="172.16.237.138"/>
-  <Borey configured="0" ipAddress="172.16.237.139"/>
-  <Borey configured="0" ipAddress="172.16.237.140"/>
-  <Borey configured="0" ipAddress="172.16.237.141"/>
-  <Borey configured="0" ipAddress="172.16.237.142"/>
-  <Borey configured="0" ipAddress="172.16.237.143"/>
-  <Borey configured="0" ipAddress="172.16.237.144"/>
-  <Borey configured="0" ipAddress="172.16.237.145"/>
-  <Borey configured="0" ipAddress="172.16.237.146"/>
-  <Borey configured="0" ipAddress="172.16.237.147"/>
-  <Borey configured="0" ipAddress="172.16.237.148"/>
-  <Borey configured="0" ipAddress="172.16.237.149"/>
-  <Borey configured="0" ipAddress="172.16.237.150"/>
-  <Borey configured="0" ipAddress="172.16.237.151"/>
-  <Borey configured="0" ipAddress="172.16.237.152"/>
-  <Borey configured="0" ipAddress="172.16.237.153"/>
-  <Borey configured="0" ipAddress="172.16.237.154"/>
-  <Borey configured="0" ipAddress="172.16.237.155"/>
-  <Borey configured="0" ipAddress="172.16.237.156"/>
-  <Borey configured="0" ipAddress="172.16.237.157"/>
-  <Borey configured="0" ipAddress="172.16.237.158"/>
-  <Borey configured="0" ipAddress="172.16.237.161"/>
-  <Borey configured="0" ipAddress="172.16.237.162"/>
-  <Borey configured="0" ipAddress="172.16.237.163"/>
-  <Borey configured="0" ipAddress="172.16.237.164"/>
-  <Borey configured="0" ipAddress="172.16.237.165"/>
-  <Borey configured="0" ipAddress="172.16.237.166"/>
-  <Borey configured="0" ipAddress="172.16.237.167"/>
-  <Borey configured="0" ipAddress="172.16.237.168"/>
-  <Borey configured="0" ipAddress="172.16.237.169"/>
-  <Borey configured="0" ipAddress="172.16.237.170"/>
-  <Borey configured="0" ipAddress="172.16.237.171"/>
-  <Borey configured="0" ipAddress="172.16.237.172"/>
-  <Borey configured="0" ipAddress="172.16.237.173"/>
-  <Borey configured="0" ipAddress="172.16.237.174"/>
-  <Borey configured="0" ipAddress="172.16.237.175"/>
-  <Borey configured="0" ipAddress="172.16.237.176"/>
-  <Borey configured="0" ipAddress="172.16.237.177"/>
-  <Borey configured="0" ipAddress="172.16.237.178"/>
-  <Borey configured="0" ipAddress="172.16.237.179"/>
-  <Borey configured="0" ipAddress="172.16.237.180"/>
-  <Borey configured="0" ipAddress="172.16.237.181"/>
-  <Borey configured="0" ipAddress="172.16.237.182"/>
-  <Borey configured="0" ipAddress="172.16.237.183"/>
-  <Borey configured="0" ipAddress="172.16.237.184"/>
-  <Borey configured="0" ipAddress="172.16.237.185"/>
-  <Borey configured="0" ipAddress="172.16.237.186"/>
-  <Borey configured="0" ipAddress="172.16.237.187"/>
-  <Borey configured="0" ipAddress="172.16.237.188"/>
-  <Borey configured="0" ipAddress="172.16.237.189"/>
-  <Borey configured="0" ipAddress="172.16.237.190"/>
-  <Borey configured="0" ipAddress="172.16.237.191"/>
-  <Borey configured="0" ipAddress="172.16.237.192"/>
-  <Borey configured="0" ipAddress="172.16.237.193"/>
-  <Borey configured="0" ipAddress="172.16.237.194"/>
-  <Borey configured="0" ipAddress="172.16.237.195"/>
-  <Borey configured="0" ipAddress="172.16.237.196"/>
-  <Borey configured="0" ipAddress="172.16.237.197"/>
-  <Borey configured="0" ipAddress="172.16.237.198"/>
-  <Borey configured="0" ipAddress="172.16.237.199"/>
-  <Borey configured="0" ipAddress="172.16.237.200"/>
-  <Borey configured="0" ipAddress="172.16.237.201"/>
-  <Borey configured="0" ipAddress="172.16.237.202"/>
-  <Borey configured="0" ipAddress="172.16.237.203"/>
-  <Borey configured="0" ipAddress="172.16.237.204"/>
-  <Borey configured="0" ipAddress="172.16.237.205"/>
-  <Borey configured="0" ipAddress="172.16.237.206"/>
-  <Borey configured="0" ipAddress="172.16.237.207"/>
-  <Borey configured="0" ipAddress="172.16.237.208"/>
-  <Borey configured="0" ipAddress="172.16.237.209"/>
-  <Borey configured="0" ipAddress="172.16.237.210"/>
-  <Borey configured="0" ipAddress="172.16.237.211"/>
-  <Borey configured="0" ipAddress="172.16.237.212"/>
-  <Borey configured="0" ipAddress="172.16.237.213"/>
-  <Borey configured="0" ipAddress="172.16.237.214"/>
-  <Borey configured="0" ipAddress="172.16.237.215"/>
-  <Borey configured="0" ipAddress="172.16.237.216"/>
-  <Borey configured="0" ipAddress="172.16.237.217"/>
-  <Borey configured="0" ipAddress="172.16.237.218"/>
-  <Borey configured="0" ipAddress="172.16.237.219"/>
-  <Borey configured="0" ipAddress="172.16.237.220"/>
-  <Borey configured="0" ipAddress="172.16.237.221"/>
-  <Borey configured="0" ipAddress="172.16.237.222"/>
-  <Borey configured="0" ipAddress="172.16.237.223"/>
-  <Borey configured="0" ipAddress="172.16.237.224"/>
-  <Borey configured="0" ipAddress="172.16.237.225"/>
-  <Borey configured="0" ipAddress="172.16.237.226"/>
-  <Borey configured="0" ipAddress="172.16.237.227"/>
-  <Borey configured="0" ipAddress="172.16.237.228"/>
-  <Borey configured="0" ipAddress="172.16.237.229"/>
-  <Borey configured="0" ipAddress="172.16.237.23"/>
-  <Borey configured="0" ipAddress="172.16.237.230"/>
-  <Borey configured="0" ipAddress="172.16.237.233"/>
-  <Borey configured="0" ipAddress="172.16.237.234"/>
-  <Borey configured="0" ipAddress="172.16.237.24"/>
-  <Borey configured="0" ipAddress="172.16.237.25"/>
-  <Borey configured="0" ipAddress="172.16.237.26"/>
-  <Borey configured="0" ipAddress="172.16.237.27"/>
-  <Borey configured="0" ipAddress="172.16.237.29"/>
-  <Borey configured="0" ipAddress="172.16.237.30"/>
-  <Borey configured="0" ipAddress="172.16.237.31"/>
-  <Borey configured="0" ipAddress="172.16.237.32"/>
-  <Borey configured="0" ipAddress="172.16.237.33"/>
-  <Borey configured="0" ipAddress="172.16.237.34"/>
-  <Borey configured="0" ipAddress="172.16.237.35"/>
-  <Borey configured="0" ipAddress="172.16.237.36"/>
-  <Borey configured="0" ipAddress="172.16.237.37"/>
-  <Borey configured="0" ipAddress="172.16.237.38"/>
-  <Borey configured="0" ipAddress="172.16.237.39"/>
-  <Borey configured="0" ipAddress="172.16.237.40"/>
-  <Borey configured="0" ipAddress="172.16.237.41"/>
-  <Borey configured="0" ipAddress="172.16.237.42"/>
-  <Borey configured="0" ipAddress="172.16.237.43"/>
-  <Borey configured="0" ipAddress="172.16.237.44"/>
-  <Borey configured="0" ipAddress="172.16.237.45"/>
-  <Borey configured="0" ipAddress="172.16.237.46"/>
-  <Borey configured="0" ipAddress="172.16.237.47"/>
-  <Borey configured="0" ipAddress="172.16.237.48"/>
-  <Borey configured="0" ipAddress="172.16.237.49"/>
-  <Borey configured="0" ipAddress="172.16.237.50"/>
-  <Borey configured="0" ipAddress="172.16.237.51"/>
-  <Borey configured="0" ipAddress="172.16.237.52"/>
-  <Borey configured="0" ipAddress="172.16.237.53"/>
-  <Borey configured="0" ipAddress="172.16.237.54"/>
-  <Borey configured="0" ipAddress="172.16.237.55"/>
-  <Borey configured="0" ipAddress="172.16.237.56"/>
-  <Borey configured="0" ipAddress="172.16.237.57"/>
-  <Borey configured="0" ipAddress="172.16.237.58"/>
-  <Borey configured="0" ipAddress="172.16.237.59"/>
-  <Borey configured="0" ipAddress="172.16.237.60"/>
-  <Borey configured="0" ipAddress="172.16.237.61"/>
-  <Borey configured="0" ipAddress="172.16.237.62"/>
-  <Borey configured="0" ipAddress="172.16.237.63"/>
-  <Borey configured="0" ipAddress="172.16.237.64"/>
-  <Borey configured="0" ipAddress="172.16.237.65"/>
-  <Borey configured="0" ipAddress="172.16.237.66"/>
-  <Borey configured="0" ipAddress="172.16.237.67"/>
-  <Borey configured="0" ipAddress="172.16.237.68"/>
-  <Borey configured="0" ipAddress="172.16.237.69"/>
-  <Borey configured="0" ipAddress="172.16.237.70"/>
-  <Borey configured="0" ipAddress="172.16.237.71"/>
-  <Borey configured="0" ipAddress="172.16.237.72"/>
-  <Borey configured="0" ipAddress="172.16.237.73"/>
-  <Borey configured="0" ipAddress="172.16.237.74"/>
-  <Borey configured="0" ipAddress="172.16.237.75"/>
-  <Borey configured="0" ipAddress="172.16.237.76"/>
-  <Borey configured="0" ipAddress="172.16.237.77"/>
-  <Borey configured="0" ipAddress="172.16.237.78"/>
-  <Borey configured="0" ipAddress="172.16.237.79"/>
-  <Borey configured="0" ipAddress="172.16.237.80"/>
-  <Borey configured="0" ipAddress="172.16.237.81"/>
-  <Borey configured="0" ipAddress="172.16.237.82"/>
-  <Borey configured="0" ipAddress="172.16.237.83"/>
-  <Borey configured="0" ipAddress="172.16.237.84"/>
-  <Borey configured="0" ipAddress="172.16.237.85"/>
-  <Borey configured="0" ipAddress="172.16.237.86"/>
-  <Borey configured="0" ipAddress="172.16.237.87"/>
-  <Borey configured="0" ipAddress="172.16.237.88"/>
-  <Borey configured="0" ipAddress="172.16.237.89"/>
-  <Borey configured="0" ipAddress="172.16.237.90"/>
-  <Borey configured="0" ipAddress="172.16.237.91"/>
-  <Borey configured="0" ipAddress="172.16.237.92"/>
-  <Borey configured="0" ipAddress="172.16.237.93"/>
-  <Borey configured="0" ipAddress="172.16.237.94"/>
-  <Borey configured="0" ipAddress="172.16.237.95"/>
-  <Borey configured="0" ipAddress="172.16.237.96"/>
-  <Borey configured="0" ipAddress="172.16.237.97"/>
-  <Borey configured="0" ipAddress="172.16.237.98"/>
-  <Borey configured="0" ipAddress="172.16.237.99"/>
-  <Borey configured="0" ipAddress="172.16.238.10"/>
-  <Borey configured="0" ipAddress="172.16.238.101"/>
-  <Borey configured="0" ipAddress="172.16.238.102"/>
-  <Borey configured="0" ipAddress="172.16.238.103"/>
-  <Borey configured="0" ipAddress="172.16.238.11"/>
-  <Borey configured="0" ipAddress="172.16.238.12"/>
-  <Borey configured="0" ipAddress="172.16.238.13"/>
-  <Borey configured="0" ipAddress="172.16.238.14"/>
-  <Borey configured="0" ipAddress="172.16.238.147"/>
-  <Borey configured="0" ipAddress="172.16.238.148"/>
-  <Borey configured="0" ipAddress="172.16.238.149"/>
-  <Borey configured="0" ipAddress="172.16.238.15"/>
-  <Borey configured="0" ipAddress="172.16.238.150"/>
-  <Borey configured="0" ipAddress="172.16.238.16"/>
-  <Borey configured="0" ipAddress="172.16.238.17"/>
-  <Borey configured="0" ipAddress="172.16.238.18"/>
-  <Borey configured="0" ipAddress="172.16.238.19"/>
-  <Borey configured="0" ipAddress="172.16.238.20"/>
-  <Borey configured="0" ipAddress="172.16.238.21"/>
-  <Borey configured="0" ipAddress="172.16.238.22"/>
-  <Borey configured="0" ipAddress="172.16.238.23"/>
-  <Borey configured="0" ipAddress="172.16.238.24"/>
-  <Borey configured="0" ipAddress="172.16.238.25"/>
-  <Borey configured="0" ipAddress="172.16.238.26"/>
-  <Borey configured="0" ipAddress="172.16.238.27"/>
-  <Borey configured="0" ipAddress="172.16.238.28"/>
-  <Borey configured="0" ipAddress="172.16.238.29"/>
-  <Borey configured="0" ipAddress="172.16.238.30"/>
-  <Borey configured="0" ipAddress="172.16.238.31"/>
-  <Borey configured="0" ipAddress="172.16.238.32"/>
-  <Borey configured="0" ipAddress="172.16.238.33"/>
-  <Borey configured="0" ipAddress="172.16.238.34"/>
-  <Borey configured="0" ipAddress="172.16.238.35"/>
-  <Borey configured="0" ipAddress="172.16.238.36"/>
-  <Borey configured="0" ipAddress="172.16.238.37"/>
-  <Borey configured="0" ipAddress="172.16.238.38"/>
-  <Borey configured="0" ipAddress="172.16.238.39"/>
-  <Borey configured="0" ipAddress="172.16.238.40"/>
-  <Borey configured="0" ipAddress="172.16.238.41"/>
-  <Borey configured="0" ipAddress="172.16.238.42"/>
-  <Borey configured="0" ipAddress="172.16.238.43"/>
-  <Borey configured="0" ipAddress="172.16.238.44"/>
-  <Borey configured="0" ipAddress="172.16.238.45"/>
-  <Borey configured="0" ipAddress="172.16.238.46"/>
-  <Borey configured="0" ipAddress="172.16.238.47"/>
-  <Borey configured="0" ipAddress="172.16.238.48"/>
-  <Borey configured="0" ipAddress="172.16.238.49"/>
-  <Borey configured="0" ipAddress="172.16.238.50"/>
-  <Borey configured="0" ipAddress="172.16.238.51"/>
-  <Borey configured="0" ipAddress="172.16.238.52"/>
-  <Borey configured="0" ipAddress="172.16.238.53"/>
-  <Borey configured="0" ipAddress="172.16.238.55"/>
-  <Borey configured="0" ipAddress="172.16.238.56"/>
-  <Borey configured="0" ipAddress="172.16.238.57"/>
-  <Borey configured="0" ipAddress="172.16.238.58"/>
-  <Borey configured="0" ipAddress="172.16.238.59"/>
-  <Borey configured="0" ipAddress="172.16.238.60"/>
-  <Borey configured="0" ipAddress="172.16.238.61"/>
-  <Borey configured="0" ipAddress="172.16.238.62"/>
-  <Borey configured="0" ipAddress="172.16.238.63"/>
-  <Borey configured="0" ipAddress="172.16.238.64"/>
-  <Borey configured="0" ipAddress="172.16.238.65"/>
-  <Borey configured="0" ipAddress="172.16.238.66"/>
-  <Borey configured="0" ipAddress="172.16.238.67"/>
-  <Borey configured="0" ipAddress="172.16.238.68"/>
-  <Borey configured="0" ipAddress="172.16.238.69"/>
-  <Borey configured="0" ipAddress="172.16.238.70"/>
-  <Borey configured="0" ipAddress="172.16.238.71"/>
-  <Borey configured="0" ipAddress="172.16.238.72"/>
-  <Borey configured="0" ipAddress="172.16.238.73"/>
-  <Borey configured="0" ipAddress="172.16.238.74"/>
-  <Borey configured="0" ipAddress="172.16.238.75"/>
-  <Borey configured="0" ipAddress="172.16.238.76"/>
-  <Borey configured="0" ipAddress="172.16.238.77"/>
-  <Borey configured="0" ipAddress="172.16.238.78"/>
-  <Borey configured="0" ipAddress="172.16.238.79"/>
-  <Borey configured="0" ipAddress="172.16.238.80"/>
-  <Borey configured="0" ipAddress="172.16.238.81"/>
-  <Borey configured="0" ipAddress="172.16.238.82"/>
-  <Borey configured="0" ipAddress="172.16.238.83"/>
-  <Borey configured="0" ipAddress="172.16.238.84"/>
-  <Borey configured="0" ipAddress="172.16.238.85"/>
-  <Borey configured="0" ipAddress="172.16.238.86"/>
-  <Borey configured="0" ipAddress="172.16.238.87"/>
-  <Borey configured="0" ipAddress="172.16.238.88"/>
-  <Borey configured="0" ipAddress="172.16.238.89"/>
-  <Borey configured="0" ipAddress="172.16.238.90"/>
-  <Borey configured="0" ipAddress="172.16.238.91"/>
-  <Borey configured="0" ipAddress="172.16.238.92"/>
-  <Borey configured="0" ipAddress="172.16.238.94"/>
-  <Borey configured="0" ipAddress="172.16.238.95"/>
-  <Borey configured="0" ipAddress="172.16.238.96"/>
-  <Borey configured="0" ipAddress="172.16.238.97"/>
-  <Borey configured="0" ipAddress="172.16.238.98"/>
-  <Borey configured="0" ipAddress="172.16.238.99"/>
+  <Borey configured="0" ipAddress="172.16.237.101" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.102" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.103" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.104" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.105" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.106" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.110" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.111" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.112" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.113" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.114" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.115" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.116" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.117" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.118" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.119" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.120" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.121" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.122" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.123" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.124" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.125" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.126" backup="1" domain="RC-B1"/>
+  <Borey configured="0" ipAddress="172.16.237.127" backup="1" domain="RC-B1"/>
+  <Borey configured="0" ipAddress="172.16.237.128" backup="1" domain="RC-B1"/>
+  <Borey configured="0" ipAddress="172.16.237.129" backup="1" domain="RC-B1"/>
+  <Borey configured="0" ipAddress="172.16.237.130" backup="1" domain="RC-B1"/>
+  <Borey configured="0" ipAddress="172.16.237.131" backup="1" domain="RC-B1"/>
+  <Borey configured="0" ipAddress="172.16.237.132" backup="1" domain="RC-B1"/>
+  <Borey configured="0" ipAddress="172.16.237.133" backup="1" domain="RC-B1"/>
+  <Borey configured="0" ipAddress="172.16.237.135" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.136" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.137" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.138" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.139" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.140" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.141" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.142" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.143" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.144" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.145" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.146" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.147" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.148" backup="1" domain="RC-B3"/>
+  <Borey configured="1" ipAddress="172.16.237.149" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.150" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.151" backup="1" domain="RC-B3"/>
+  <Borey configured="0" ipAddress="172.16.237.152" backup="1" domain="RC-B2"/>
+  <Borey configured="0" ipAddress="172.16.237.153" backup="1" domain="RC-B2"/>
+  <Borey configured="0" ipAddress="172.16.237.154" backup="1" domain="RC-B2"/>
+  <Borey configured="0" ipAddress="172.16.237.155" backup="1" domain="RC-B2"/>
+  <Borey configured="0" ipAddress="172.16.237.156" backup="1" domain="RC-B2"/>
+  <Borey configured="0" ipAddress="172.16.237.157" backup="1" domain="RC-B2"/>
+  <Borey configured="0" ipAddress="172.16.237.158" backup="1" domain="RC-B2"/>
+  <Borey configured="0" ipAddress="172.16.237.161" backup="1" domain="RC-2.2"/>
+  <Borey configured="0" ipAddress="172.16.237.162" backup="1" domain="RC-2.2"/>
+  <Borey configured="0" ipAddress="172.16.237.163" backup="1" domain="RC-2.2"/>
+  <Borey configured="0" ipAddress="172.16.237.164" backup="1" domain="RC-2.2"/>
+  <Borey configured="0" ipAddress="172.16.237.165" backup="1" domain="RC-2.2"/>
+  <Borey configured="0" ipAddress="172.16.237.166" backup="1" domain="RC-2.2"/>
+  <Borey configured="0" ipAddress="172.16.237.167" backup="1" domain="RC-2.2"/>
+  <Borey configured="0" ipAddress="172.16.237.168" backup="1" domain="RC-2.4"/>
+  <Borey configured="0" ipAddress="172.16.237.169" backup="1" domain="RC-2.4"/>
+  <Borey configured="0" ipAddress="172.16.237.170" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.171" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.172" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.173" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.174" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.175" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.176" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.177" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.178" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.179" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.180" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.181" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.182" backup="1" domain="RC-2.5"/>
+  <Borey configured="0" ipAddress="172.16.237.183" backup="1" domain="RC-2.7"/>
+  <Borey configured="0" ipAddress="172.16.237.184" backup="1" domain="RC-2.7"/>
+  <Borey configured="0" ipAddress="172.16.237.185" backup="1" domain="RC-2.7"/>
+  <Borey configured="0" ipAddress="172.16.237.186" backup="1" domain="RC-2.7"/>
+  <Borey configured="0" ipAddress="172.16.237.187" backup="1" domain="RC-2.7"/>
+  <Borey configured="0" ipAddress="172.16.237.188" backup="1" domain="RC-2.7"/>
+  <Borey configured="0" ipAddress="172.16.237.189" backup="1" domain="RC-2.7"/>
+  <Borey configured="0" ipAddress="172.16.237.190" backup="1" domain="RC-2.7"/>
+  <Borey configured="0" ipAddress="172.16.237.191" backup="1" domain="RC-2.7"/>
+  <Borey configured="0" ipAddress="172.16.237.192" backup="1" domain="RC-2.7"/>
+  <Borey configured="0" ipAddress="172.16.237.193" backup="1" domain="RC-2.7"/>
+  <Borey configured="0" ipAddress="172.16.237.194" backup="1" domain="RC-2.7"/>
+  <Borey configured="0" ipAddress="172.16.237.195" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.196" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.197" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.198" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.199" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.200" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.201" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.202" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.203" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.204" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.205" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.206" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.207" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.208" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.209" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.210" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.211" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.212" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.213" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.214" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.215" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.216" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.217" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.218" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.219" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.220" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.221" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.222" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.223" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.224" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.225" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.226" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.227" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.228" backup="1" domain="RC-3.8"/>
+  <Borey configured="0" ipAddress="172.16.237.229" backup="1" domain="RC-3.9"/>
+  <Borey configured="0" ipAddress="172.16.237.23" backup="1" domain="TAMOZHNJA"/>
+  <Borey configured="0" ipAddress="172.16.237.230" backup="1" domain="RC-B4"/>
+  <Borey configured="0" ipAddress="172.16.237.233" backup="1" domain="kpp26"/>
+  <Borey configured="0" ipAddress="172.16.237.234" backup="1" domain="ZOLID"/>
+  <Borey configured="0" ipAddress="172.16.237.24" backup="1" domain="kpp2"/>
+  <Borey configured="0" ipAddress="172.16.237.25" backup="1" domain="BP"/>
+  <Borey configured="0" ipAddress="172.16.237.26" backup="1" domain="kpp3"/>
+  <Borey configured="0" ipAddress="172.16.237.27" backup="1" domain="kpp31"/>
+  <Borey configured="0" ipAddress="172.16.237.29" backup="1" domain="kpp27"/>
+  <Borey configured="0" ipAddress="172.16.237.30" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.31" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.32" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.33" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.34" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.35" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.36" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.37" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.38" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.39" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.40" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.41" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.42" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.43" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.44" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.45" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.46" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.47" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.48" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.49" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.50" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.51" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.52" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.53" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.54" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.55" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.56" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.57" backup="1" domain="kpp25"/>
+  <Borey configured="0" ipAddress="172.16.237.58" backup="1" domain="RC-1.6"/>
+  <Borey configured="0" ipAddress="172.16.237.59" backup="1" domain="RC-1.12,RC-1.2"/>
+  <Borey configured="0" ipAddress="172.16.237.60" backup="1" domain="RC-1.12"/>
+  <Borey configured="0" ipAddress="172.16.237.61" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.62" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.63" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.64" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.65" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.66" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.67" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.68" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.69" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.70" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.71" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.72" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.73" backup="1" domain="RC-1.8"/>
+  <Borey configured="0" ipAddress="172.16.237.74" backup="1" domain="RC-1.13"/>
+  <Borey configured="0" ipAddress="172.16.237.75" backup="1" domain="RC-1.13"/>
+  <Borey configured="0" ipAddress="172.16.237.76" backup="1" domain="RC-1.13"/>
+  <Borey configured="0" ipAddress="172.16.237.77" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.78" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.79" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.80" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.81" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.82" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.83" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.84" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.85" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.86" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.87" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.88" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.89" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.90" backup="1" domain="RC-1.5"/>
+  <Borey configured="0" ipAddress="172.16.237.91" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.92" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.93" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.94" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.95" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.96" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.97" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.98" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.237.99" backup="1" domain="RC-1.4"/>
+  <Borey configured="0" ipAddress="172.16.238.10" backup="1" domain="RC-3.10"/>
+  <Borey configured="0" ipAddress="172.16.238.101" backup="1" domain="P3.6"/>
+  <Borey configured="0" ipAddress="172.16.238.102" backup="1" domain="P3.6"/>
+  <Borey configured="0" ipAddress="172.16.238.103" backup="1" domain="P3.6"/>
+  <Borey configured="0" ipAddress="172.16.238.11" backup="1" domain="RC-3.10"/>
+  <Borey configured="0" ipAddress="172.16.238.12" backup="1" domain="RC-3.10"/>
+  <Borey configured="0" ipAddress="172.16.238.13" backup="1" domain="RC-3.10"/>
+  <Borey configured="0" ipAddress="172.16.238.14" backup="1" domain="RC-3.4"/>
+  <Borey configured="0" ipAddress="172.16.238.147" backup="1" domain="ANord1"/>
+  <Borey configured="0" ipAddress="172.16.238.148" backup="1" domain="ANORD2,ANord2"/>
+  <Borey configured="0" ipAddress="172.16.238.149" backup="1" domain="ANord3"/>
+  <Borey configured="0" ipAddress="172.16.238.15" backup="1" domain="RC-3.4"/>
+  <Borey configured="0" ipAddress="172.16.238.150" backup="1" domain="ANord4"/>
+  <Borey configured="0" ipAddress="172.16.238.16" backup="1" domain="RC-3.4"/>
+  <Borey configured="0" ipAddress="172.16.238.17" backup="1" domain="RC-3.4"/>
+  <Borey configured="0" ipAddress="172.16.238.18" backup="1" domain="RC-3.3"/>
+  <Borey configured="0" ipAddress="172.16.238.19" backup="1" domain="RC-3.3"/>
+  <Borey configured="0" ipAddress="172.16.238.20" backup="1" domain="RC-3.3"/>
+  <Borey configured="0" ipAddress="172.16.238.21" backup="1" domain="RC-3.3"/>
+  <Borey configured="0" ipAddress="172.16.238.22" backup="1" domain="RC-4.1"/>
+  <Borey configured="0" ipAddress="172.16.238.23" backup="1" domain="RC-4.1"/>
+  <Borey configured="0" ipAddress="172.16.238.24" backup="1" domain="RC-4.2"/>
+  <Borey configured="0" ipAddress="172.16.238.25" backup="1" domain="RC-4.2"/>
+  <Borey configured="0" ipAddress="172.16.238.26" backup="1" domain="RC-4.2"/>
+  <Borey configured="0" ipAddress="172.16.238.27" backup="1" domain="NP1.2,NP2.1,NP2.3"/>
+  <Borey configured="0" ipAddress="172.16.238.28" backup="1" domain="NP2.3"/>
+  <Borey configured="0" ipAddress="172.16.238.29" backup="1" domain="NP2.3"/>
+  <Borey configured="0" ipAddress="172.16.238.30" backup="1" domain="NP2.3"/>
+  <Borey configured="0" ipAddress="172.16.238.31" backup="1" domain="NP2.3"/>
+  <Borey configured="0" ipAddress="172.16.238.32" backup="1" domain="NP2.3"/>
+  <Borey configured="0" ipAddress="172.16.238.33" backup="1" domain="NP2.3"/>
+  <Borey configured="0" ipAddress="172.16.238.34" backup="1" domain="NP2.3"/>
+  <Borey configured="0" ipAddress="172.16.238.35" backup="1" domain="NP2.1"/>
+  <Borey configured="0" ipAddress="172.16.238.36" backup="1" domain="NP2.1"/>
+  <Borey configured="0" ipAddress="172.16.238.37" backup="1" domain="NP2.1"/>
+  <Borey configured="0" ipAddress="172.16.238.38" backup="1" domain="NP2.1"/>
+  <Borey configured="0" ipAddress="172.16.238.39" backup="1" domain="NP2.1"/>
+  <Borey configured="0" ipAddress="172.16.238.40" backup="1" domain="NP2.1"/>
+  <Borey configured="0" ipAddress="172.16.238.41" backup="1" domain="NP2.1"/>
+  <Borey configured="0" ipAddress="172.16.238.42" backup="1" domain="NP2.1"/>
+  <Borey configured="0" ipAddress="172.16.238.43" backup="1" domain="NP2.1"/>
+  <Borey configured="0" ipAddress="172.16.238.44" backup="1" domain="P1.1"/>
+  <Borey configured="0" ipAddress="172.16.238.45" backup="1" domain="P1.1"/>
+  <Borey configured="0" ipAddress="172.16.238.46" backup="1" domain="P1.3"/>
+  <Borey configured="0" ipAddress="172.16.238.47" backup="1" domain="P1.2"/>
+  <Borey configured="0" ipAddress="172.16.238.48" backup="1" domain="P1.2"/>
+  <Borey configured="0" ipAddress="172.16.238.49" backup="1" domain="P1.2"/>
+  <Borey configured="0" ipAddress="172.16.238.50" backup="1" domain="P1.2"/>
+  <Borey configured="0" ipAddress="172.16.238.51" backup="1" domain="P1.2"/>
+  <Borey configured="0" ipAddress="172.16.238.52" backup="1" domain="P1.2"/>
+  <Borey configured="1" ipAddress="172.16.238.53" domain="P1.2"/>
+  <Borey configured="0" ipAddress="172.16.238.55" backup="1" domain="P1.6"/>
+  <Borey configured="0" ipAddress="172.16.238.56" backup="1" domain="P1.6"/>
+  <Borey configured="0" ipAddress="172.16.238.57" backup="1" domain="P1.6"/>
+  <Borey configured="0" ipAddress="172.16.238.58" backup="1" domain="P1.6"/>
+  <Borey configured="0" ipAddress="172.16.238.59" backup="1" domain="P1.6"/>
+  <Borey configured="0" ipAddress="172.16.238.60" backup="1" domain="P1.4"/>
+  <Borey configured="0" ipAddress="172.16.238.61" backup="1" domain="P1.4"/>
+  <Borey configured="0" ipAddress="172.16.238.62" backup="1" domain="P1.4"/>
+  <Borey configured="0" ipAddress="172.16.238.63" backup="1" domain="P1.4"/>
+  <Borey configured="0" ipAddress="172.16.238.64" backup="1" domain="P1.4"/>
+  <Borey configured="0" ipAddress="172.16.238.65" backup="1" domain="P1.5"/>
+  <Borey configured="0" ipAddress="172.16.238.66" backup="1" domain="P1.5"/>
+  <Borey configured="0" ipAddress="172.16.238.67" backup="1" domain="P1.5"/>
+  <Borey configured="0" ipAddress="172.16.238.68" backup="1" domain="P1.5"/>
+  <Borey configured="0" ipAddress="172.16.238.69" backup="1" domain="P2.1"/>
+  <Borey configured="0" ipAddress="172.16.238.70" backup="1" domain="P2.1"/>
+  <Borey configured="0" ipAddress="172.16.238.71" backup="1" domain="P2.1"/>
+  <Borey configured="0" ipAddress="172.16.238.72" backup="1" domain="P2.2"/>
+  <Borey configured="0" ipAddress="172.16.238.73" backup="1" domain="P2.3,P2.4"/>
+  <Borey configured="0" ipAddress="172.16.238.74" backup="1" domain="P2.7"/>
+  <Borey configured="0" ipAddress="172.16.238.75" backup="1" domain="P2.7"/>
+  <Borey configured="0" ipAddress="172.16.238.76" backup="1" domain="P2.7"/>
+  <Borey configured="0" ipAddress="172.16.238.77" backup="1" domain="P2.7"/>
+  <Borey configured="0" ipAddress="172.16.238.78" backup="1" domain="P2.7"/>
+  <Borey configured="0" ipAddress="172.16.238.79" backup="1" domain="P2.6"/>
+  <Borey configured="0" ipAddress="172.16.238.80" backup="1" domain="P2.6"/>
+  <Borey configured="0" ipAddress="172.16.238.81" backup="1" domain="P2.6"/>
+  <Borey configured="0" ipAddress="172.16.238.82" backup="1" domain="P2.6"/>
+  <Borey configured="0" ipAddress="172.16.238.83" backup="1" domain="P2.6"/>
+  <Borey configured="0" ipAddress="172.16.238.84" backup="1" domain="P2.5"/>
+  <Borey configured="0" ipAddress="172.16.238.85" backup="1" domain="P2.5"/>
+  <Borey configured="0" ipAddress="172.16.238.86" backup="1" domain="P2.5"/>
+  <Borey configured="0" ipAddress="172.16.238.87" backup="1" domain="P2.5"/>
+  <Borey configured="0" ipAddress="172.16.238.88" backup="1" domain="P2.5"/>
+  <Borey configured="0" ipAddress="172.16.238.89" backup="1" domain="P2.8"/>
+  <Borey configured="0" ipAddress="172.16.238.90" backup="1" domain="P2.8"/>
+  <Borey configured="0" ipAddress="172.16.238.91" backup="1" domain="P2.8"/>
+  <Borey configured="0" ipAddress="172.16.238.92" backup="1" domain="P2.8"/>
+  <Borey configured="0" ipAddress="172.16.238.94" backup="1" domain="P3.1"/>
+  <Borey configured="0" ipAddress="172.16.238.95" backup="1" domain="P3.3"/>
+  <Borey configured="0" ipAddress="172.16.238.96" backup="1" domain="P3.3"/>
+  <Borey configured="0" ipAddress="172.16.238.97" backup="1" domain="P3.5"/>
+  <Borey configured="0" ipAddress="172.16.238.98" backup="1" domain="P3.5"/>
+  <Borey configured="0" ipAddress="172.16.238.99" backup="1" domain="P3.5"/>
 </Boreys>
