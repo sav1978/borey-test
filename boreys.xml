@@ -161,7 +161,7 @@
   <Borey configured="0" ipAddress="172.16.237.56" backup="1" domain="RC-1.6"/>
   <Borey configured="0" ipAddress="172.16.237.57" backup="1" domain="kpp25"/>
   <Borey configured="0" ipAddress="172.16.237.58" backup="1" domain="RC-1.6"/>
-  <Borey configured="0" ipAddress="172.16.237.59" backup="1" domain="RC-1.12,RC-1.2"/>
+  <Borey configured="0" ipAddress="172.16.237.59" backup="1" domain="RC-1.12"/>
   <Borey configured="0" ipAddress="172.16.237.60" backup="1" domain="RC-1.12"/>
   <Borey configured="0" ipAddress="172.16.237.61" backup="1" domain="RC-1.8"/>
   <Borey configured="0" ipAddress="172.16.237.62" backup="1" domain="RC-1.8"/>
@@ -211,7 +211,7 @@
   <Borey configured="0" ipAddress="172.16.238.13" backup="1" domain="RC-3.10"/>
   <Borey configured="0" ipAddress="172.16.238.14" backup="1" domain="RC-3.4"/>
   <Borey configured="0" ipAddress="172.16.238.147" backup="1" domain="ANord1"/>
-  <Borey configured="0" ipAddress="172.16.238.148" backup="1" domain="ANORD2,ANord2"/>
+  <Borey configured="0" ipAddress="172.16.238.148" backup="1" domain="ANord2"/>
   <Borey configured="0" ipAddress="172.16.238.149" backup="1" domain="ANord3"/>
   <Borey configured="0" ipAddress="172.16.238.15" backup="1" domain="RC-3.4"/>
   <Borey configured="0" ipAddress="172.16.238.150" backup="1" domain="ANord4"/>
@@ -226,7 +226,7 @@
   <Borey configured="0" ipAddress="172.16.238.24" backup="1" domain="RC-4.2"/>
   <Borey configured="0" ipAddress="172.16.238.25" backup="1" domain="RC-4.2"/>
   <Borey configured="0" ipAddress="172.16.238.26" backup="1" domain="RC-4.2"/>
-  <Borey configured="0" ipAddress="172.16.238.27" backup="1" domain="NP1.2,NP2.1,NP2.3"/>
+  <Borey configured="0" ipAddress="172.16.238.27" backup="1" domain="NP2.3"/>
   <Borey configured="0" ipAddress="172.16.238.28" backup="1" domain="NP2.3"/>
   <Borey configured="0" ipAddress="172.16.238.29" backup="1" domain="NP2.3"/>
   <Borey configured="0" ipAddress="172.16.238.30" backup="1" domain="NP2.3"/>
@@ -271,7 +271,7 @@
   <Borey configured="0" ipAddress="172.16.238.70" backup="1" domain="P2.1"/>
   <Borey configured="0" ipAddress="172.16.238.71" backup="1" domain="P2.1"/>
   <Borey configured="0" ipAddress="172.16.238.72" backup="1" domain="P2.2"/>
-  <Borey configured="0" ipAddress="172.16.238.73" backup="1" domain="P2.3,P2.4"/>
+  <Borey configured="0" ipAddress="172.16.238.73" backup="1" domain="P2.4"/>
   <Borey configured="0" ipAddress="172.16.238.74" backup="1" domain="P2.7"/>
   <Borey configured="0" ipAddress="172.16.238.75" backup="1" domain="P2.7"/>
   <Borey configured="0" ipAddress="172.16.238.76" backup="1" domain="P2.7"/>
